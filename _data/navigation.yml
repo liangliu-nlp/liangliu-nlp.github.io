@@ -20,5 +20,8 @@ main:
   - title: "Internships"
     url: /#-internships
         
+  - title: "Services"
+    url: /#-services
+
   - title: "Blog Posts"
     url: /year-archive/
