@@ -16,7 +16,6 @@ The ultimate goal of my research is to build systems that can self-evolve to ach
 
 ## 🔥 News
 - 2024.10: 🎉🎉 One paper is accepted by NeurIPS 2024 Workshop LanGame!
-- 2024.9: I accepted the invitation to serve as a reviewer for ICLR 2025.
 - 2024.7: 🎉🎉 One paper is accepted by CIKM 2024!
 - 2024.6: 🎉🎉 One paper is accepted by ICANN 2024!
 
@@ -41,3 +40,8 @@ The ultimate goal of my research is to build systems that can self-evolve to ach
 
 ## 💻 Internships
 - Remote Research Intern, [PRADA Lab](https://pradalab1.github.io/), [KAUST](https://www.kaust.edu.sa/), 2024.05 - 2025.01
+
+## 🛠️ Services
+- Conference Reviewer: ICLR (2025 - 2026)
+- Workshop Reviewer: Reasoning and Planning for LLMs @ ICLR2025
+
