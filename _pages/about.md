@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋Welcome to my homepage! I am a first-year Ph.D. student at DiLab, Sun Yat-Sen University, advised by [Assoc. Prof. Sheng Yue](https://scholar.google.com/citations?user=Mc_MN_MAAAAJ). 
+👋Welcome to my homepage! I am a first-year Ph.D. student at DI Lab, Sun Yat-Sen University, advised by [Assoc. Prof. Sheng Yue](https://scholar.google.com/citations?user=Mc_MN_MAAAAJ). 
 I received my master's degree at NLP Lab, Soochow University, advised by [Prof. Shoushan Li](https://scholar.google.com/citations?user=ZRGSxdUAAAAJ). 
 Before that, I received my bachelor’s degree at Heilongjiang Institute of Technology, advised by [Prof. Haoliang Qi](https://scholar.google.com/citations?user=R6Ouo-cAAAAJ) and [Prof. Zhongyuan Han](https://scholar.google.com/citations?user=mep07fMAAAAJ).
 
